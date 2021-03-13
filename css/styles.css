@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style-type: none;
+}
+
+li {
+  font-size: 2rem;
+}
+
+html {
+  font-size: 62.75%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin: 3rem;
+
+  background-color: rgba(169, 169, 169, 0.198);
+  padding: 2rem 3rem;
+  box-shadow: 2rem 4rem 4rem rgba(0, 0, 0, 0.175);
+}
+
+.header {
+  margin: 3rem 0;
+  font-size: 4rem;
+}
+
+label {
+  font-size: 2rem;
+}
+
+input {
+  font-size: 1.5rem;
+  padding: 1rem 1rem;
+  outline: none;
+}
+
+.footer {
+  margin: 1rem 0;
+  font-size: 2rem;
+}
+
+.credits {
+  margin-top: 20rem;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+button {
+  outline: none;
+}
+
+.deleteButton {
+  color: white;
+  font-weight: bold;
+  background-color: darkred;
+  margin: 0 1rem;
+  border-radius: 0.5rem;
+  padding: 0.2rem 1rem;
+}
+
+.editButton {
+  color: white;
+  font-weight: bold;
+  background-color: darkgreen;
+  border-radius: 0.5rem;
+  padding: 0.2rem 1rem;
+}
