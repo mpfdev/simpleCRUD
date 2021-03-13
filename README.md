@@ -1,4 +1,4 @@
-# My Awesome Project
+# Simple Crud
 
 A HTML5, CSS3, and Vanilla JavaScript simple based CRUD. This Simple Crud app has several features including insert new name, delete name, and edit name.
 
