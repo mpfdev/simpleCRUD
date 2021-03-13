@@ -2,7 +2,7 @@
 
 A HTML5, CSS3, and Vanilla JavaScript simple based CRUD. This Simple Crud app has several features including insert new name, delete name, and edit name.
 
-**Link to project:** crudnobackend.netlify.app
+**Link to project:** https://crudnobackend.netlify.app
 
 ![alt tag](https://i.imgur.com/JzcxP0N.gif)
 
